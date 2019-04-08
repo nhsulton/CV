@@ -1,0 +1,258 @@
+/* Parent */
+body {
+  margin: 0;
+  text-align: center;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #4E0087;
+  border-width: 5px;
+  width: 5%;
+}
+
+/*Font Styling*/
+h1 {
+  padding-top: 100px;
+  font-family: 'Damion', cursive;
+  font-size: 50px;
+  color: #06D38C;
+}
+
+h2 {
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
+  color: #4C1767;
+}
+
+h3 {
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
+  color: #4C1767;
+}
+
+h4 {
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
+  color: #4C1767;
+}
+
+p {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
+}
+
+/* Top Container*/
+.top-container {
+  background-color: #4E0087;
+  margin-bottom: 70px;
+  padding-bottom: 20px;
+}
+
+.workspace {
+  padding-top: 100px;
+  width: 45%;
+}
+
+/* Image Positioning Top Container
+.GPU {
+  width: 7%;
+  position: absolute;
+  left: 70px;
+  top: 300px;f
+}
+
+.keyboard {
+  width: 7%;
+  position: absolute;
+  left: 230px;
+  top: 350px;
+}
+
+.intel {
+  width: 6%;
+  position: absolute;
+  right: 200px;
+  top: 350px;
+}
+
+.mouse {
+  width: 5%;
+  position: absolute;
+  right: 250px;
+  top: 350px;
+}
+
+.ram {
+  width: 7%;
+  position: absolute;
+  left: 75px;
+  top: 480px;
+}
+
+.desktop {
+  width: 5%;
+  position: absolute;
+  right: 100px;
+  top: 580px;
+}
+
+.hd {
+  width: 5%;
+  position: absolute;
+  left: 270px;
+  top: 590px;
+}
+
+.router {
+  width: 6%;
+  position: absolute;
+  right: 90px;
+  top: 550px;
+}
+
+.workspace {
+  padding-top: 100px;
+  width: 45%;
+}
+*/
+
+/*Mid Container*/
+/*Profile Section */
+.aboutme {
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.aboutmejpg {
+  border-radius: 50%;
+  width: 15%;
+  height: 15%;
+}
+
+/*Skill Section*/
+.skills {
+  padding-top: 50px;
+}
+
+.skill1 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.coding {
+  border-radius: 50%;
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill2 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.pctroubleshoot {
+  border-radius: 50%;
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill3 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.design {
+  border-radius: 50%;
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.ultimate {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.pitak {
+  border-radius: 50%;
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+/*Footer*/
+.footer {
+  margin-top: 30px;
+}
+
+.list-unstyled {
+  padding-left: 0;
+  list-style: none;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding-right: 5px;
+  padding-left: 5px;
+  margin-bottom: 10px;
+}
+
+/*Change icons size here*/
+.social-icons .fa {
+  font-size: 1.25em;
+}
+
+.social-icons .fa {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  color: #FFF;
+  color: rgba(255, 255, 255, 0.8);
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+.social-icons.icon-circle .fa {
+  border-radius: 50%;
+}
+
+.social-icons.icon-rotate .fa:hover, .social-icons.icon-rotate .fa:active {
+  -webkit-transform: scale(1.1) rotate(360deg);
+  -moz-transform: scale(1.1) rotate(360deg);
+  -ms-transform: scale(1.1) rotate(360deg);
+  -o-transform: scale(1.1) rotate(360deg);
+  transform: scale(1.1) rotate(360deg);
+}
+
+.social-icons .fa-facebook, .social-icons .fa-facebook-square {
+  background-color: #4E0087;
+}
+
+.social-icons .fa-twitter, .social-icons .fa-twitter-square {
+  background-color: #4E0087
+}
+
+.social-icons .fa-instagram {
+  background-color: #4E0087;
+}
+
+.social-icons .fa-github, .social-icons .fa-github-alt, .social-icons .fa-github-square {
+  background-color: #4E0087;
+}
+
+.social-icons .fa-linkedin, .social-icons .fa-linkedin-square {
+  background-color: #4E0087;
+}
